@@ -1,7 +1,7 @@
 Shake4Location
 ==============
 
-1. An android application that returns the current location when the device is shaken. 
+1. An android application that uses GPS and Accelerometer and returns the current location when the device is shaken. 
 
 2. Reverse Geo-coding is implemented to get the address from the location co-ordinates.
 
